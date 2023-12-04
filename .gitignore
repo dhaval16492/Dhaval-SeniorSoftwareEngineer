@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OrderBookProRata/bin/Debug/net6.0
+/OrderBookProRata/obj
+/OrderBookTest/bin/Debug/net6.0
+/OrderBookTest/obj
